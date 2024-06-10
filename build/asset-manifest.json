@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Carshowroom/static/css/main.f49c13e9.css",
+    "main.js": "/Carshowroom/static/js/main.d3d8bdaf.js",
+    "static/media/car1.jpg": "/Carshowroom/static/media/car1.5d328def9c36279b8df5.jpg",
+    "static/media/lamborghini.webp": "/Carshowroom/static/media/lamborghini.f0200b2a7ab7add34a42.webp",
+    "static/media/Hyundai-Grand-i10-Nios-200120231541.jpg": "/Carshowroom/static/media/Hyundai-Grand-i10-Nios-200120231541.a9849f9625c132486860.jpg",
+    "static/media/bmw.jpg": "/Carshowroom/static/media/bmw.fbff4bec17a7ee158e5f.jpg",
+    "static/media/car3.jpg": "/Carshowroom/static/media/car3.c66844c864c27f386061.jpg",
+    "static/media/Rolls-Royce.webp": "/Carshowroom/static/media/Rolls-Royce.43fa85c435a9d9be5150.webp",
+    "static/media/mercedies.jpeg": "/Carshowroom/static/media/mercedies.c088ecfc0a4a1bd7572f.jpeg",
+    "index.html": "/Carshowroom/index.html",
+    "main.f49c13e9.css.map": "/Carshowroom/static/css/main.f49c13e9.css.map",
+    "main.d3d8bdaf.js.map": "/Carshowroom/static/js/main.d3d8bdaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49c13e9.css",
+    "static/js/main.d3d8bdaf.js"
+  ]
+}
